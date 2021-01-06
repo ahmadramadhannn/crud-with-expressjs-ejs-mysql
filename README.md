@@ -12,6 +12,5 @@ nodemon : https://www.npmjs.com/package/nodemon
 untuk menjalankan project ini :
 
 1. npm install
-2. npm install nodemon --save-dev
-3. create database di mysql dengan nama list_app kemudian import database yg sudah saya sediakan
-4. last npm run watch 
+2. create database di mysql dengan nama list_app kemudian import database yg sudah saya sediakan
+3. last npm run watch 
